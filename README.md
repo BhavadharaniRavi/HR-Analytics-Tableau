@@ -1,4 +1,4 @@
-# HR Analytics Dashboard – Employee Attrition Analyis
+# HR Analytics Dashboard – Employee Attrition Analysis
 
 ## Project Description
 This project analyzes employee data to identify attrition patterns, workforce distribution, and job satisfaction levels. The dashboard helps understand which departments, age groups, and education fields experience higher employee turnover, enabling better HR decision-making.
