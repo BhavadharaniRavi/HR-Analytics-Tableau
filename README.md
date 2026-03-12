@@ -3,6 +3,9 @@
 ## Project Overview
 This project presents an HR Analytics dashboard built using Tableau to analyze employee data and key HR metrics.
 
+## Dashboard Preview
+![HR Analytics Dashboard](HRdashboard.png)
+
 ## Key Insights
 - Employee attrition analysis
 - Department-wise employee distribution
